@@ -18,7 +18,7 @@ public class Lab5 {
         // Read some input data
         System.out.println("The student's first name: ");
         sFirstname = scan.nextLine();
-        System.out.println("The student's alleged last name: ");
+        System.out.println("The student's last name: ");
         sLastname = scan.nextLine();
         System.out.println("The student's Bronco Id: ");
         sBroncoId = scan.nextLine();
