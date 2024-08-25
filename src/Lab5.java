@@ -5,7 +5,6 @@
 // FOR: CS 1400- Lab #5
 // TIME SPENT: how long it took you to complete the assignment.
 //-----------------------------------------------------------*/
-//example comment
 import java.util.Scanner;
 public class Lab5 {
     public static void main(String[] args) {
