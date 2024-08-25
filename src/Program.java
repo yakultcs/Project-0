@@ -6,7 +6,6 @@
 //-----------------------------------------------------------*/
 
 import java.time.LocalDateTime;
-//to change
 public class Program {
     private String programName, description, createdDate, fileName;
     private Student author;
