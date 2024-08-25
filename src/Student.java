@@ -30,7 +30,7 @@ public class Student {
     }
 
     public String toString(){
-        return String.format("SSSStudent: %s %s, Bronco Id: %s, Grade: %.2f", firstName, lastName, broncoId, grade);
+        return String.format("Student: %s %s, Bronco Id: %s, Grade: %.2f", firstName, lastName, broncoId, grade);
     }
 
     public void setGrade(double newGrade){
